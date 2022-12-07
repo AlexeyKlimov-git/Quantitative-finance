@@ -1,1 +1,1 @@
-![Screenshot](newplot.png)
+![Screenshot](result.png)
